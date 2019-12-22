@@ -53,7 +53,7 @@
 > 4. 데이터 버퍼링 기능
 > 5. 오류 검출 
 
-![현대의 컴퓨터 시스템](https://images.app.goo.gl/qFBoKKfvd1yebChJ7)
+![현대의 컴퓨터 시스템](https://t1.daumcdn.net/cfile/tistory/2772A041535305A41B)
 
 ### 1.2.2 저장 장치 구조 
 *   
